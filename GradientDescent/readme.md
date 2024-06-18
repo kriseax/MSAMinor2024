@@ -1,1 +1,1 @@
-This Folder contains a .zip file of the Gradient Descent lab
+This Folder contains files for the Gradient Descent lab
