@@ -1,1 +1,1 @@
-This Folder contains a .zip file of the Cost function lab
+This Folder contains files for the Cost function lab
